@@ -1,0 +1,446 @@
+[
+  {
+    "ja": "漁業",
+    "en": "Fishing"
+  },
+  {
+    "ja": "車輪",
+    "en": "The Wheel"
+  },
+  {
+    "ja": "農業",
+    "en": "Agriculture"
+  },
+  {
+    "ja": "狩猟",
+    "en": "Hunting"
+  },
+  {
+    "ja": "神秘主義",
+    "en": "Mysticism"
+  },
+  {
+    "ja": "帆走",
+    "en": "Sailing"
+  },
+  {
+    "ja": "採鉱",
+    "en": "Mining"
+  },
+  {
+    "ja": "陶器",
+    "en": "Pottery"
+  },
+  {
+    "ja": "畜産",
+    "en": "Animal Husbandry"
+  },
+  {
+    "ja": "弓術",
+    "en": "Archery"
+  },
+  {
+    "ja": "瞑想",
+    "en": "Meditation"
+  },
+  {
+    "ja": "多神教",
+    "en": "Polytheism"
+  },
+  {
+    "ja": "石工術",
+    "en": "Masonry"
+  },
+  {
+    "ja": "騎乗",
+    "en": "Horseback Riding"
+  },
+  {
+    "ja": "聖職",
+    "en": "Priesthood"
+  },
+  {
+    "ja": "一神教",
+    "en": "Monotheism"
+  },
+  {
+    "ja": "青銅器",
+    "en": "Bronze Working"
+  },
+  {
+    "ja": "筆記",
+    "en": "Writing"
+  },
+  {
+    "ja": "鋳金",
+    "en": "Metal Casting"
+  },
+  {
+    "ja": "アルファベット",
+    "en": "Alphabet"
+  },
+  {
+    "ja": "数学",
+    "en": "Mathematics"
+  },
+  {
+    "ja": "美学",
+    "en": "Aesthetics"
+  },
+  {
+    "ja": "君主政治",
+    "en": "Monarchy"
+  },
+  {
+    "ja": "羅針盤",
+    "en": "Compass"
+  },
+  {
+    "ja": "文学",
+    "en": "Literature"
+  },
+  {
+    "ja": "暦",
+    "en": "Calendar"
+  },
+  {
+    "ja": "建築学",
+    "en": "Construction"
+  },
+  {
+    "ja": "通貨",
+    "en": "Currency"
+  },
+  {
+    "ja": "機械",
+    "en": "Machinery"
+  },
+  {
+    "ja": "演劇",
+    "en": "Drama"
+  },
+  {
+    "ja": "工学",
+    "en": "Engineering"
+  },
+  {
+    "ja": "法律",
+    "en": "CodeofLaws"
+  },
+  {
+    "ja": "封建制",
+    "en": "Feudalism"
+  },
+  {
+    "ja": "光学",
+    "en": "Optics"
+  },
+  {
+    "ja": "音楽",
+    "en": "Music"
+  },
+  {
+    "ja": "哲学",
+    "en": "Philosophy"
+  },
+  {
+    "ja": "官吏",
+    "en": "Civil Service"
+  },
+  {
+    "ja": "神学",
+    "en": "Theology"
+  },
+  {
+    "ja": "ギルド",
+    "en": "Guild"
+  },
+  {
+    "ja": "神授王権",
+    "en": "Divine Right"
+  },
+  {
+    "ja": "紙",
+    "en": "Paper"
+  },
+  {
+    "ja": "銀行制度",
+    "en": "Banking"
+  },
+  {
+    "ja": "ナショナリズム",
+    "en": "Nationalism"
+  },
+  {
+    "ja": "活版印刷",
+    "en": "Printing Press"
+  },
+  {
+    "ja": "教育",
+    "en": "Education"
+  },
+  {
+    "ja": "憲法",
+    "en": "Constitution"
+  },
+  {
+    "ja": "職業軍人",
+    "en": "Military Tradition"
+  },
+  {
+    "ja": "共通規格",
+    "en": "Replaceable Parts"
+  },
+  {
+    "ja": "自由主義",
+    "en": "Liberalism"
+  },
+  {
+    "ja": "経済学",
+    "en": "Economics"
+  },
+  {
+    "ja": "火薬",
+    "en": "Gunpowder"
+  },
+  {
+    "ja": "民主主義",
+    "en": "Democracy"
+  },
+  {
+    "ja": "ライフリング",
+    "en": "Rifling"
+  },
+  {
+    "ja": "天文学",
+    "en": "Astronomy"
+  },
+  {
+    "ja": "企業",
+    "en": "Corporation"
+  },
+  {
+    "ja": "化学",
+    "en": "Chemistry"
+  },
+  {
+    "ja": "軍事学",
+    "en": "Military Science"
+  },
+  {
+    "ja": "蒸気機関",
+    "en": "Steam Power"
+  },
+  {
+    "ja": "科学的手法",
+    "en": "Scientific Method"
+  },
+  {
+    "ja": "鋼鉄",
+    "en": "Steel"
+  },
+  {
+    "ja": "大量生産",
+    "en": "Assembly Line"
+  },
+  {
+    "ja": "共産主義",
+    "en": "Communism"
+  },
+  {
+    "ja": "物理学",
+    "en": "Physics"
+  },
+  {
+    "ja": "生物学",
+    "en": "Biology"
+  },
+  {
+    "ja": "鉄道",
+    "en": "Railroad"
+  },
+  {
+    "ja": "飛行機",
+    "en": "Flight"
+  },
+  {
+    "ja": "長距離砲",
+    "en": "Artillery"
+  },
+  {
+    "ja": "ファシズム",
+    "en": "Fascism"
+  },
+  {
+    "ja": "電気",
+    "en": "Electricity"
+  },
+  {
+    "ja": "医術",
+    "en": "Medicine"
+  },
+  {
+    "ja": "内燃機関",
+    "en": "Combustion"
+  },
+  {
+    "ja": "ロケット工学",
+    "en": "Rocketry"
+  },
+  {
+    "ja": "産業主義",
+    "en": "Industrialism"
+  },
+  {
+    "ja": "核分裂",
+    "en": "Fission"
+  },
+  {
+    "ja": "冷蔵技術",
+    "en": "Refrigeration"
+  },
+  {
+    "ja": "無線通信",
+    "en": "Radio"
+  },
+  {
+    "ja": "人工衛星",
+    "en": "Satellites"
+  },
+  {
+    "ja": "高度航空術",
+    "en": "Advanced Flight"
+  },
+  {
+    "ja": "マスメディア",
+    "en": "Mass Media"
+  },
+  {
+    "ja": "複合素材",
+    "en": "Composites"
+  },
+  {
+    "ja": "超伝導",
+    "en": "Superconductor"
+  },
+  {
+    "ja": "光ファイバー",
+    "en": "Fiber Optics"
+  },
+  {
+    "ja": "エコロジー",
+    "en": "Ecology"
+  },
+  {
+    "ja": "遺伝子工学",
+    "en": "Genetics"
+  },
+  {
+    "ja": "ロボット工学",
+    "en": "Robotics"
+  },
+  {
+    "ja": "ステルス",
+    "en": "Stealth"
+  },
+  {
+    "ja": "核融合",
+    "en": "Fusion"
+  },
+  {
+    "ja": "未来技術",
+    "en": "Future Tech"
+  },
+  {
+    "ja": "トラップ",
+    "en": "Trapping"
+  },
+  {
+    "ja": "建築",
+    "en": "Construction"
+  },
+  {
+    "ja": "鉄器",
+    "en": "Iron Working"
+  },
+  {
+    "ja": "騎士道",
+    "en": "Chivalry"
+  },
+  {
+    "ja": "音響学",
+    "en": "Acoustics"
+  },
+  {
+    "ja": "考古学",
+    "en": "Archaeology"
+  },
+  {
+    "ja": "化学肥料",
+    "en": "Fertilizer"
+  },
+  {
+    "ja": "冶金",
+    "en": "Metallurgy"
+  },
+  {
+    "ja": "航海術",
+    "en": "Navigation"
+  },
+  {
+    "ja": "科学理論",
+    "en": "Scientific Theory"
+  },
+  {
+    "ja": "ダイナマイト",
+    "en": "Dynamite"
+  },
+  {
+    "ja": "電信",
+    "en": "Telegraph"
+  },
+  {
+    "ja": "先進弾道学",
+    "en": "Advanced Ballistics"
+  },
+  {
+    "ja": "原子理論",
+    "en": "Atomic Theory"
+  },
+  {
+    "ja": "コンピューター",
+    "en": "Computers"
+  },
+  {
+    "ja": "電子工学",
+    "en": "Electronics"
+  },
+  {
+    "ja": "グローバル化",
+    "en": "Globalization"
+  },
+  {
+    "ja": "レーザー",
+    "en": "Lasers"
+  },
+  {
+    "ja": "ペニシリン",
+    "en": "Penicillin"
+  },
+  {
+    "ja": "プラスチック",
+    "en": "Plastics"
+  },
+  {
+    "ja": "レーダー",
+    "en": "Radar"
+  },
+  {
+    "ja": "ナノテクノロジー",
+    "en": "Nanotechnology"
+  },
+  {
+    "ja": "素粒子物理学",
+    "en": "Particle Physics"
+  }
+]
